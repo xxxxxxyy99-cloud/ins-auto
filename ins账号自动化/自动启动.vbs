@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "python main.py schedule", 0, False

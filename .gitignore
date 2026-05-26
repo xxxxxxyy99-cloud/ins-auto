@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+generated_images/
+ig_session.json
+post_queue.json
+next_post.json
+*.zip
+*.spec
+build/
+dist/
