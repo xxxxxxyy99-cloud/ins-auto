@@ -17,7 +17,7 @@ IG_USERNAME = os.getenv("IG_USERNAME", "your-instagram-username")
 IG_PASSWORD = os.getenv("IG_PASSWORD", "your-instagram-password")
 
 IMAGE_MODEL = "google/gemini-2.5-flash-image"
-CAPTION_MODEL = "openai/gpt-5-mini"
+CAPTION_MODEL = "openai/gpt-4o-mini"
 
 POST_INTERVAL_DAYS = 2
 POST_WINDOW_START = 16
